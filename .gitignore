@@ -1,0 +1,24 @@
+# Environnements virtuels
+.venv/
+venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Fichiers compilés Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Dossiers de résultats/exports
+resultats/
+*.db
+*.csv
+*.json
+
+# Fichiers IDE
+.vscode/
+.idea/
+*.swp
+*.swo
